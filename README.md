@@ -1,1 +1,1 @@
-[FOR SHOWCASE ONLY, AS SOME COPYRIGHTED PROJECT FILES COULD NOT BE UPLOADED HERE] A copy of my uni projet repository, a digital lock implemented using a finite state machine. Written in Verilog language in Quartus Prime IDE by Intel. Runs on DE10 Cyclone V development board.
+A copy of my uni projet repository, a digital lock implemented using a finite state machine. Written in Verilog language in Quartus Prime IDE by Intel. Runs on DE10 Cyclone V development board.
